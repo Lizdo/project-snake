@@ -26,11 +26,15 @@
 		</dict>
 		<dict>
 			<key>filename</key>
+			<string>test.as</string>
+			<key>lastUsed</key>
+			<date>2009-04-03T14:08:41Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
 			<string>GameLogic.as</string>
 			<key>lastUsed</key>
-			<date>2009-04-01T15:24:22Z</date>
-			<key>selected</key>
-			<true/>
+			<date>2009-04-03T14:42:57Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -66,7 +70,7 @@
 			<key>filename</key>
 			<string>Snake.as</string>
 			<key>lastUsed</key>
-			<date>2009-04-01T15:24:22Z</date>
+			<date>2009-04-03T13:52:09Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
@@ -204,29 +208,29 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>25</integer>
+				<integer>26</integer>
 				<key>line</key>
-				<integer>89</integer>
+				<integer>88</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>59</integer>
+			<integer>58</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
 				<integer>18</integer>
 				<key>line</key>
-				<integer>89</integer>
+				<integer>88</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
 				<integer>32</integer>
 				<key>line</key>
-				<integer>89</integer>
+				<integer>88</integer>
 			</dict>
 		</dict>
 	</dict>
@@ -242,6 +246,25 @@
 		<string>InputManager.as</string>
 		<string>ProjectSnake.as</string>
 		<string>Snake.as</string>
+	</array>
+	<key>shellVariables</key>
+	<array>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>value</key>
+			<string>ProjectSnake.as</string>
+			<key>variable</key>
+			<string>TM_FLEX_FILE_SPECS</string>
+		</dict>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>value</key>
+			<string>ProjectSnake.swf</string>
+			<key>variable</key>
+			<string>TM_FLEX_OUTPUT</string>
+		</dict>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
