@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>EnemyManager.as</string>
+	<string>Background.as</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -16,15 +16,13 @@
 			<key>filename</key>
 			<string>Enemy.as</string>
 			<key>lastUsed</key>
-			<date>2009-04-09T15:14:33Z</date>
+			<date>2009-04-12T15:33:55Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>EnemyManager.as</string>
 			<key>lastUsed</key>
-			<date>2009-04-09T15:41:48Z</date>
-			<key>selected</key>
-			<true/>
+			<date>2009-04-13T15:34:02Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -36,31 +34,31 @@
 			<key>filename</key>
 			<string>GameLogic.as</string>
 			<key>lastUsed</key>
-			<date>2009-04-08T14:19:55Z</date>
+			<date>2009-04-13T15:46:11Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>GameVisual.as</string>
 			<key>lastUsed</key>
-			<date>2009-04-08T14:02:29Z</date>
+			<date>2009-04-13T15:42:46Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>Grid.as</string>
 			<key>lastUsed</key>
-			<date>2009-04-09T15:41:48Z</date>
+			<date>2009-04-12T14:56:01Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>GridSystem.as</string>
 			<key>lastUsed</key>
-			<date>2009-04-09T15:25:58Z</date>
+			<date>2009-04-12T14:56:18Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>InputManager.as</string>
 			<key>lastUsed</key>
-			<date>2009-04-04T14:17:58Z</date>
+			<date>2009-04-13T15:09:21Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -72,13 +70,35 @@
 			<key>filename</key>
 			<string>Snake.as</string>
 			<key>lastUsed</key>
-			<date>2009-04-08T14:02:52Z</date>
+			<date>2009-04-13T15:42:10Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>Background.as</string>
+			<key>lastUsed</key>
+			<date>2009-04-13T15:46:11Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
+		<key>Background.as</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>55</integer>
+				<key>line</key>
+				<integer>50</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>20</integer>
+		</dict>
 		<key>BodyPart.as</key>
 		<dict>
 			<key>caret</key>
@@ -98,14 +118,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>79</integer>
+				<integer>47</integer>
 				<key>line</key>
-				<integer>75</integer>
+				<integer>57</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>41</integer>
+			<integer>28</integer>
 		</dict>
 		<key>EnemyManager.as</key>
 		<dict>
@@ -114,79 +134,81 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>GameLogic.as</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>14</integer>
-				<key>line</key>
-				<integer>92</integer>
+				<integer>256</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>69</integer>
+			<integer>224</integer>
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>97</integer>
 				<key>line</key>
-				<integer>92</integer>
+				<integer>257</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>22</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>92</integer>
+				<integer>256</integer>
 			</dict>
+		</dict>
+		<key>GameLogic.as</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>68</integer>
+				<key>line</key>
+				<integer>202</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>155</integer>
 		</dict>
 		<key>GameVisual.as</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>31</integer>
+				<integer>26</integer>
 				<key>line</key>
-				<integer>45</integer>
+				<integer>52</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>14</integer>
+			<integer>20</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>18</integer>
+				<key>line</key>
+				<integer>52</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>34</integer>
+				<key>line</key>
+				<integer>52</integer>
+			</dict>
 		</dict>
 		<key>Grid.as</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>30</integer>
+				<integer>25</integer>
 				<key>line</key>
-				<integer>66</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>18</integer>
-		</dict>
-		<key>GridSystem.as</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>29</integer>
-				<key>line</key>
-				<integer>84</integer>
+				<integer>81</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
@@ -197,16 +219,46 @@
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
-				<integer>25</integer>
+				<integer>18</integer>
 				<key>line</key>
-				<integer>84</integer>
+				<integer>81</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>36</integer>
+				<integer>29</integer>
 				<key>line</key>
-				<integer>84</integer>
+				<integer>81</integer>
+			</dict>
+		</dict>
+		<key>GridSystem.as</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>40</integer>
+				<key>line</key>
+				<integer>90</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>53</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>25</integer>
+				<key>line</key>
+				<integer>90</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>50</integer>
+				<key>line</key>
+				<integer>90</integer>
 			</dict>
 		</dict>
 		<key>InputManager.as</key>
@@ -242,14 +294,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>8</integer>
+				<integer>3</integer>
 				<key>line</key>
-				<integer>152</integer>
+				<integer>58</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>163</integer>
+			<integer>75</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
@@ -264,6 +316,7 @@
 		<string>InputManager.as</string>
 		<string>ProjectSnake.as</string>
 		<string>Snake.as</string>
+		<string>Background.as</string>
 	</array>
 	<key>shellVariables</key>
 	<array>
@@ -287,6 +340,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{210, 64}, {1230, 814}}</string>
+	<string>{{304, 64}, {1230, 814}}</string>
 </dict>
 </plist>
